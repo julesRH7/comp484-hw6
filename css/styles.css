@@ -1,0 +1,64 @@
+/* Color Palette
+Dark Purple  #312E81
+Purple       #6366F1
+Light Purple #E0E7FF
+Light Gray   #F3F4F6
+Dark Gray    #1F2937
+White        #FFFFFF
+*/
+
+/* Global styles 
+------------------------------------*/
+body{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+}
+
+.outfit-normalText {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+}
+
+.merriweather-heading {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h1{font-size: 2.5rem;}
+h2{font-size: 2rem;}
+h1, h2, h3 {
+    font-family: "Merriweather", serif;
+}
+    
+
+/* Header & Footer 
+------------------------------------*/
+header, footer {
+    background: #312E81;
+    color: #FFFFFF;
+}
+footer a{
+    color:#F3F4F6;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work-experience {
+    background: #F3F4F6;
+}
+
+
+/* Education
+------------------------------------*/
+.education {
+    background:#E0E7FF;
+}
